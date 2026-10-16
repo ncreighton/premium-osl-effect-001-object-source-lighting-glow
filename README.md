@@ -1,0 +1,2 @@
+# premium-osl-effect-001-object-source-lighting-glow
+Tired of inconsistent lighting ruining your OSL effects? Stop juggling scattered references and guesswork—systematize your glow with a structured lab for object source lighting.  This Notion template replaces chaotic sticky notes and forgotten tutorials with a centralized hub for all your OSL projects. It gives you a repeatable framework to plan, t
